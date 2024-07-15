@@ -10,8 +10,7 @@ In this challenge, I built a responsive QR code component that adapts to both mo
 
 ### Links
 - Solution URL: [https://github.com/priya209/QR-code-solution.git]
-- Live Site URL: [Add your live site URL here](#)
-
+- Live Site URL: [https://sensational-khapse-67849e.netlify.app/]
 
 ### Built with
 - Semantic HTML5 markup
