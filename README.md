@@ -9,7 +9,7 @@ In this challenge, I built a responsive QR code component that adapts to both mo
 ![Screenshot](./screenshot.png)
 
 ### Links
-- Solution URL: [Add your solution URL here](#)
+- Solution URL: [https://github.com/priya209/QR-code-solution.git]
 - Live Site URL: [Add your live site URL here](#)
 
 
